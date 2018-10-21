@@ -1,6 +1,6 @@
 # Swiss Streets
 
-In progress project to see which Canton is the most popular outside of its own borders
+In progress project to see which Canton is the most popular outside of its own borders.
 
 ### Installing
 
@@ -52,5 +52,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Romain
-* Inspiration
-* etc
