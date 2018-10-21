@@ -1,6 +1,6 @@
 # Swiss Streets
 
-One Paragraph of project description goes here
+In progress project to see which Canton is the most popular outside of its own borders
 
 ## Getting Started
 
