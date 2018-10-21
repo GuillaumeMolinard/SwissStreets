@@ -42,7 +42,7 @@ Give an example
 
 ## Authors
 
-* **Guillaume Molinard** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Guillaume Molinard** - *Initial work* - 
 
 
 ## License
